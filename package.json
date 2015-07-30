@@ -1,0 +1,14 @@
+{
+  "name": "Slack-API",
+  "description": "nodejs and slack integration",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "github-webhook-handler": "^0.5.0",
+    "githubhook": "latest",
+    "http": "0.0.0",
+    "morgan": "^1.6.1",
+    "multer": "^0.1.8",
+    "slack-notify": "latest",
+    "underscore.string": "latest"
+  }
+}
